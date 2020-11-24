@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "header_title": "Mentor Bootstrap Template - Index",
+    "header_icon": "mentor_template/assets/img/favicon.png",
+    "description": "",
+    "keywords": ""
+  },
+  "header": {
+    "title": "Mentor",
+
+    "navbar": {
+      "home_active": "active",
+      "drop_down": {
+        "class": "drop-down",
+        "name": "Drop Down",
+        "sub_dropdown1": {
+          "name": "Drop Down 1",
+          "link": "#"
+        },
+        "deep_drop_down": {
+          "name": "Deep Drop Down",
+          "link": "#",
+          "list": [
+            {
+              "name": "Deep Drop Down 1",
+              "link": "#"
+            },
+            {
+              "name": "Deep Drop Down 2",
+              "link": "#"
+            },
+            {
+              "name": "Deep Drop Down 3",
+              "link": "#"
+            },
+            {
+              "name": "Deep Drop Down 4",
+              "link": "#"
+            }
+          ]
+        },
+        "sub_dropdown2": {
+          "name": "Drop Down 2",
+          "link": "#"
+        },
+        "sub_dropdown3": {
+          "name": "Drop Down 3",
+          "link": "#"
+        },
+
+        "sub_dropdown4": {
+          "name": "Drop Down 4",
+          "link": "#"
+        }
+      }
+    }
+  }
+}
