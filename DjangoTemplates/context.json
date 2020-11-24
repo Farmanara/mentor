@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "header_title": "Mentor Bootstrap Template - Index",
+    "header_icon": "mentor_template/assets/img/favicon.png",
+    "description": "",
+    "keywords": ""
+  },
+  "navbar": {
+    "home_active": "active"
+  }
+}
