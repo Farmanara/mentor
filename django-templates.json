@@ -1,0 +1,12 @@
+{
+  "static_paths": ["DjangoTemplates/static"],
+  "template_paths": ["DjangoTemplates/templates"],
+  "contexts_path": "DjangoTemplates",
+  "pages": [
+    {
+      "name": "Home page",
+      "context": ["context.json"],
+      "template": "mentor_template/index.html"
+    }
+  ]
+}
