@@ -59,5 +59,23 @@
         }
       }
     }
+  },
+  "footer": {
+    "contact_heading": "Mentor",
+    "address_lines": [
+      "A108 Adam Street",
+      "New York, NY 535022",
+      "United States"
+    ],
+    "contact_info": [
+      {
+        "type": "Phone:",
+        "info": "+1 5589 55488 55"
+      },
+      {
+        "type": "Email",
+        "info": "info@example.com"
+      }
+    ]
   }
 }
