@@ -158,7 +158,7 @@
             </div>
 
             <div class="col-lg-2 col-md-6 footer-links">
-              <h4>{{footer.useful_links_heading}}</h4>
+              <h4>{{footer.useful_links.heading}}</h4>
               <ul>
                 {%for li in footer.useful_links.links%}
                 <li>
@@ -174,7 +174,8 @@
               <ul>
                 {%for service in footer.services.links%}
                 <li>
-                  <i class="bx bx-chevron-right"></i> <a href="#">Web Design</a>
+                  <i class="{{service.class}}"></i>
+                  <a href="{service.href}}">{{service.title}}</a>
                 </li>
                 {%endfor%}
               </ul>
