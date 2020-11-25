@@ -5,7 +5,7 @@
   "pages": [
     {
       "name": "Home page",
-      "context": ["base.json", "context.json"],
+      "context": ["context.json"],
       "template": "mentor_template/index.html"
     }
   ]
