@@ -139,7 +139,8 @@
     },
     "newsletter": {
       "title": "Join Our Newsletter",
-      "text": "Tamen quem nulla quae legam multos aute sint culpa legam noster magna"
+      "text": "Tamen quem nulla quae legam multos aute sint culpa legam noster magna",
+      "subscribe_button_value": "Subscribe"
     },
 
     "social_media": [
