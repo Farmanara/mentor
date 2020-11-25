@@ -13,6 +13,7 @@
       "drop_down": {
         "class": "drop-down",
         "name": "Drop Down",
+        "link": "#",
         "sub_dropdown1": {
           "name": "Drop Down 1",
           "link": "#"
