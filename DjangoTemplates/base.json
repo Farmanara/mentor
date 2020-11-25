@@ -73,9 +73,101 @@
         "info": "+1 5589 55488 55"
       },
       {
-        "type": "Email",
+        "type": "Email:",
         "info": "info@example.com"
       }
-    ]
+    ],
+    "useful_links": {
+      "heading": "Useful Links",
+      "links": [
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Home"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "About us"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Services"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Terms of service"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Privacy policy"
+        }
+      ],
+      "services": {
+        "heading": "Our services",
+        "links": [
+          {
+            "class": "bx bx-chevron-right",
+            "href": "#",
+            "title": "Web Design"
+          },
+          {
+            "class": "bx bx-chevron-right",
+            "href": "#",
+            "title": "Web Development"
+          },
+          {
+            "class": "bx bx-chevron-right",
+            "href": "#",
+            "title": "Product Management"
+          },
+          {
+            "class": "bx bx-chevron-right",
+            "href": "#",
+            "title": "Marketing"
+          },
+          {
+            "class": "bx bx-chevron-right",
+            "href": "#",
+            "title": "Graphic Design"
+          }
+        ],
+        "newsletter": {
+          "title": "Join Our Newsletter",
+          "text": "Tamen quem nulla quae legam multos aute sint culpa legam noster magna"
+        },
+
+        "social_media": [
+          {
+            "href": "#",
+            "media_class": "twitter",
+            "i_class": "bx bxl-twitter"
+          },
+          {
+            "href": "#",
+            "media_class": "facebook",
+            "i_class": "bx bxl-facebook"
+          },
+          {
+            "href": "#",
+            "media_class": "instagram",
+            "i_class": "bx bxl-instagram"
+          },
+          {
+            "href": "#",
+            "media_class": "google-plus",
+            "i_class": "bx bxl-skype"
+          },
+          {
+            "href": "#",
+            "media_class": "linkedin",
+            "i_class": "bx bxl-linkedin"
+          }
+        ]
+      }
+    }
   }
 }
