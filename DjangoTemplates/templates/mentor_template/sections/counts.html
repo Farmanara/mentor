@@ -1,0 +1,14 @@
+<!-- ======= Counts Section ======= -->
+<section id="counts" class="counts section-bg">
+  <div class="container">
+    <div class="row counters">
+      {%for counter in section.content.counters%}
+      <div class="{{counter.class}}">
+        <span data-toggle="{{counter.data-toggle}}">{{counter.number}}</span>
+        <p>{{counter.text}}</p>
+      </div>
+      {%endfor%}
+    </div>
+  </div>
+</section>
+<!-- End Counts Section -->

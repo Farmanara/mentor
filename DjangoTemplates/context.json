@@ -103,6 +103,38 @@
           "text": "Learn More"
         }
       }
+    },
+
+    {
+      "file": "mentor_template/sections/counts.html",
+      "content": {
+        "counters": [
+          {
+            "class": "col-lg-3 col-6 text-center",
+            "data_toggle": "counter-up",
+            "number": "1232",
+            "text": "Students"
+          },
+          {
+            "class": "col-lg-3 col-6 text-center",
+            "data_toggle": "counter-up",
+            "number": "64",
+            "text": "Courses"
+          },
+          {
+            "class": "col-lg-3 col-6 text-center",
+            "data_toggle": "couter-up",
+            "number": "42",
+            "text": "Events"
+          },
+          {
+            "class": "col-lg-3 col-6 text-center",
+            "data_toggle": "counter-up",
+            "number": "15",
+            "text": "Trainers"
+          }
+        ]
+      }
     }
   ],
 
