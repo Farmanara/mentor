@@ -61,6 +61,51 @@
     }
   },
 
+  "hero": {
+    "content": {
+      "heading_line_1": "Learning Today,",
+      "heading_line_2": "Leading Tomorrow,",
+      "tagline": "We are team of talanted designers making websites with Bootstrap",
+      "button": {
+        "link": "courses.html",
+        "class": "btn-get-started",
+        "text": "Get Started"
+      }
+    }
+  },
+  "sections": [
+    {
+      "file": "mentor_template/sections/about.html",
+      "title": "About",
+      "tagline": "About Us",
+      "content": {
+        "img_src": "mentor_template/assets/img/about.jpg",
+        "heading": "Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.",
+        "tagline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "list": [
+          {
+            "icon_class": "icofont-check-circled",
+            "text": " Ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          },
+          {
+            "icon_class": "icofont-check-circled",
+            "text": "Duis aute irure dolor in reprehenderit in voluptate velit."
+          },
+          {
+            "icon_class": "icofont-check-circled",
+            "text": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolor eu fugiat nulla pariatur."
+          }
+        ],
+        "bottom_text": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate",
+        "button": {
+          "href": "about.html",
+          "class": "learn-more-btn",
+          "text": "Learn More"
+        }
+      }
+    }
+  ],
+
   "footer": {
     "contact_heading": "Mentor",
     "address_lines": [
