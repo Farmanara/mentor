@@ -146,7 +146,7 @@
         "button": {
           "href": "about.html",
           "class": "more-btn",
-          "text": "Learn More",
+          "text": "Learn More ",
           "i_class": "bx bx-chevron-right"
         },
         "columns": [
