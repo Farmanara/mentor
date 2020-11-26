@@ -64,7 +64,7 @@
   "hero": {
     "content": {
       "heading_line_1": "Learning Today,",
-      "heading_line_2": "Leading Tomorrow,",
+      "heading_line_2": "Leading Tomorrow",
       "tagline": "We are team of talanted designers making websites with Bootstrap",
       "button": {
         "link": "courses.html",
@@ -93,7 +93,7 @@
           },
           {
             "icon_class": "icofont-check-circled",
-            "text": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolor eu fugiat nulla pariatur."
+            "text": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur."
           }
         ],
         "bottom_text": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate",
