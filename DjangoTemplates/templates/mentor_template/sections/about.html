@@ -23,7 +23,7 @@
         <h3>{{section.content.heading}}</h3>
         <p class="font-italic">{{section.content.tagline}}</p>
         <ul>
-          {%for item in sections.content.list%}
+          {%for item in section.content.list%}
           <li><i class="{{item.icon_class}}"></i> {{item.text}}</li>
           {%endfor%}
         </ul>
