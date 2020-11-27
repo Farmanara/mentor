@@ -1,4 +1,4 @@
-{%extends "mentor_template/base.html"%} {%load  static%}
+{%extends "mentor_template/base.html"%} {%load  static%} {%block content%}
    
    {%for section in sections%}
    {%include section.file%}
@@ -147,3 +147,4 @@
     </section><!-- End Testimonials Section -->
 
   </main><!-- End #main -->
+{%endblock%}
