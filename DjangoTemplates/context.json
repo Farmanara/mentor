@@ -297,9 +297,9 @@
         },
         {
           "main_class": "col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0",
-          "course_img_src": "mentor_template/assets/img/course-2.jpg",
-          "course_img_class": "img-fluid",
-          "course_img_alt": "...",
+          "img_src": "mentor_template/assets/img/course-2.jpg",
+          "img_class": "img-fluid",
+          "img_alt": "...",
           "heading": "Marketing",
           "price": "$250",
           "href": "course-details.html",
