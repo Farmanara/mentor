@@ -1,0 +1,29 @@
+<!-- ======= About Section ======= -->
+<section id="about" class="about">
+  <div class="container" data-aos="fade-up">
+    <div class="row">
+      <div
+        class="col-lg-6 order-1 order-lg-2"
+        data-aos="fade-left"
+        data-aos-delay="100"
+      >
+        <img
+          src="{% static section.content.img_src% }"
+          class="img-fluid"
+          alt=""
+        />
+      </div>
+      <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
+        <h3>{{section.content.heading}}</h3>
+        <p class="font-italic">{{section.content.description}}</p>
+        <ul>
+          {%for item in section.content.list %}
+          <li><i class="{{item.i_class}}"></i> {{item.text}}</li>
+          {%endfor%}
+        </ul>
+        <p>{{section.content.bottom_text}}</p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End About Section -->

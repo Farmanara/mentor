@@ -1,0 +1,36 @@
+{%load static%}
+<!-- ======= Testimonials Section ======= -->
+<section id="testimonials" class="testimonials">
+  <div class="container" data-aos="fade-up">
+    <div class="section-title">
+      <h2>{{section.title}}</h2>
+      <p>{{section.tagline}}</p>
+    </div>
+
+    <div
+      class="owl-carousel testimonials-carousel"
+      data-aos="zoom-in"
+      data-aos-delay="100"
+    >
+      {%for testimony in section.testimonials%}
+      <div class="testimonial-wrap">
+        <div class="testimonial-item">
+          <img
+            src="{% static testimony.img.src}"
+            class="{{testimony.img.class}}"
+            alt="{{testimony.img.alt}}"
+          />
+          <h3>{{testimony.name}}</h3>
+          <h4>{{testimony.job_title}}</h4>
+          <p>
+            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+            {{testimony.quote}}
+            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+          </p>
+        </div>
+      </div>
+      {%endfor%}
+    </div>
+  </div>
+</section>
+<!-- End Testimonials Section -->

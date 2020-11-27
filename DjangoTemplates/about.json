@@ -65,6 +65,92 @@
       "file": "mentor_template/sections_about/breadcrumb.html",
       "title": "About Us",
       "tagline": "Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium."
+    },
+    {
+      "file": "mentor_template/sections_about/about.html",
+      "content": {
+        "img_src": "assets/img/about.jpg",
+        "img_class": "img-fluid",
+        "img_alt": "",
+        "heading": "Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+
+        "list": [
+          {
+            "i_class": "icofont-check-circled",
+            "text": "Ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          },
+          {
+            "i_class": "icofont-check-circled",
+            "text": "Duis aute irure dolor in reprehenderit in voluptate velit."
+          },
+          {
+            "i_class": "icofont-check-circled",
+            "text": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur."
+          }
+        ],
+        "bottom_text": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate"
+      }
+    },
+    {
+      "file": "mentor_template/sections/counts.html"
+    },
+    {
+      "file": "mentor_template/sections_about/testimonials.html",
+      "title": "Testimonials",
+      "tagline": "What are they saying",
+      "testimonials": [
+        {
+          "img": {
+            "src": "assets/img/testimonials/testimonials-1.jpg",
+            "class": "testimonial-img",
+            "alt": ""
+          },
+          "name": "Saul Goodman",
+          "job_title": "Ceo &amp; Founder",
+          "quote": "Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper."
+        },
+        {
+          "img": {
+            "src": "assets/img/testimonials/testimonials-2.jpg",
+            "class": "testimonial-img",
+            "alt": ""
+          },
+          "name": "Sara Wilsson",
+          "job_title": "Designer",
+          "quote": "Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa."
+        },
+        {
+          "img": {
+            "src": "assets/img/testimonials/testimonials-3.jpg",
+            "class": "testimonial-img",
+            "alt": ""
+          },
+          "name": "Jena Karlis",
+          "job_title": "Store Owner",
+          "quote": "Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim."
+        },
+        {
+          "img": {
+            "src": "assets/img/testimonials/testimonials-4.jpg",
+            "class": "testimonial-img",
+            "alt": ""
+          },
+          "name": "Matt Brandon",
+          "job_title": "Freelancer",
+          "quote": "Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam."
+        },
+        {
+          "img": {
+            "src": "assets/img/testimonials/testimonials-5.jpg",
+            "class": "testimonial-img",
+            "alt": ""
+          },
+          "name": "John Larson",
+          "job_title": "Entrepreneur",
+          "quote": "Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid."
+        }
+      ]
     }
   ],
 
