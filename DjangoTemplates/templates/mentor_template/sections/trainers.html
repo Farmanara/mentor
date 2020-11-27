@@ -1,0 +1,36 @@
+<!-- ======= Trainers Section ======= -->
+<section id="trainers" class="trainers">
+  <div class="container" data-aos="fade-up">
+    <div class="section-title">
+      <h2>{{section.title}}</h2>
+      <p>{{section.tagline}}</p>
+    </div>
+
+    <div class="row" data-aos="zoom-in" data-aos-delay="100">
+      {%for trainer in section.trainers%}
+      <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+        <div class="member">
+          <img
+            src="{%static trainer.img_src %}"
+            class="{{trainer.img_class}}"
+            alt="{{trainer.img_alt}}"
+          />
+          <div class="{{trainer.content_class}}">
+            <h4>{{trainer.name}}</h4>
+            <span>{{trainer.course}}</span>
+            <p>{{trainer.description}}</p>
+            <div class="social">
+              {%for social_media in section.social%}
+              <a href="{{social_media.href}}"
+                ><i class="social_media.i_class"></i
+              ></a>
+              {%endfor%}
+            </div>
+          </div>
+        </div>
+      </div>
+      {%endfor%}
+    </div>
+  </div>
+</section>
+<!-- End Trainers Section -->

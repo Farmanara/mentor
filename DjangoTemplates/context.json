@@ -338,6 +338,97 @@
           }
         }
       ]
+    },
+    {
+      "file": "mentor_template/sections/trainers.html",
+      "title": "Trainers",
+      "tagline": "Our Professional Trainers",
+      "trainers": [
+        {
+          "img_src": "mentor_template/assets/img/trainers/trainer-1.jpg",
+          "img_class": "img-fluid",
+          "img_alt": "member-content",
+          "content_class": "",
+          "name": "Walter White",
+          "course": "Web Development",
+          "description": "Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut",
+
+          "social": [
+            {
+              "href": "",
+              "i_class": "icofont-twiter"
+            },
+            {
+              "href": "",
+              "i_class": "icofont-facebook"
+            },
+            {
+              "href": "",
+              "i_class": "icofont-istagram"
+            },
+            {
+              "href": "",
+              "i_class": "icofont-linkedin"
+            }
+          ]
+        },
+        {
+          "img_src": "mentor_template/assets/img/trainers/trainer-2.jpg",
+          "img_class": "img-fluid",
+          "img_alt": "",
+          "content_class": "member-content",
+          "name": "Sarah Jhinson",
+          "course": "Marketing",
+          "description": "Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus",
+
+          "social": [
+            {
+              "href": "",
+              "i_class": "icofont-twiter"
+            },
+            {
+              "href": "",
+              "i_class": "icofont-facebook"
+            },
+            {
+              "href": "",
+              "i_class": "icofont-istagram"
+            },
+            {
+              "href": "",
+              "i_class": "icofont-linkedin"
+            }
+          ]
+        },
+        {
+          "img_src": "mentor_template/assets/img/trainers/trainer-3.jpg",
+          "img_class": "img-fluid",
+          "img_alt": "",
+          "content_class": "member-content",
+          "name": "William Anderson",
+          "course": "Content",
+          "description": "Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara",
+
+          "social": [
+            {
+              "href": "",
+              "i_class": "icofont-twiter"
+            },
+            {
+              "href": "",
+              "i_class": "icofont-facebook"
+            },
+            {
+              "href": "",
+              "i_class": "icofont-istagram"
+            },
+            {
+              "href": "",
+              "i_class": "icofont-linkedin"
+            }
+          ]
+        }
+      ]
     }
   ],
 
