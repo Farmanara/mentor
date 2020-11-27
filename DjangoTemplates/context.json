@@ -167,6 +167,107 @@
           }
         ]
       }
+    },
+    {
+      "file": "mentor_template/sections/features.html",
+      "features": [
+        {
+          "div_class": "col-lg-3 col-md-4",
+          "box_class": "icon-box",
+          "i_class": "ri-store-line",
+          "i_style": "color: #ffbb2c",
+          "href": "",
+          "text": "Lorem Ipsum"
+        },
+        {
+          "div_class": "col-lg-3 col-md-4 mt-4 mt-md-0",
+          "box_class": "icon-box",
+          "i_class": "ri-bar-chart-box-line",
+          "i_style": "color: #5578ff",
+          "href": "",
+          "text": "Dolor Sitema"
+        },
+        {
+          "div_class": "col-lg-3 col-md-4 mt-4 mt-md-0",
+          "box_class": "icon-box",
+          "i_class": "ri-calendar-todo-line",
+          "i_style": "color: #e80368",
+          "href": "",
+          "text": "Sed perspiciatis"
+        },
+        {
+          "div_class": "col-lg-3 col-md-4 mt-4 mt-lg-0",
+          "box_class": "icon-box",
+          "i_class": "ri-paint-brush-line",
+          "i_style": "color: #e361ff",
+          "href": "",
+          "text": "Magni Dolores"
+        },
+        {
+          "div_class": "col-lg-3 col-md-4 mt-4",
+          "box_class": "icon-box",
+          "i_class": "ri-database-2-line",
+          "i_style": "color: #47aeff",
+          "href": "",
+          "text": "Nemo Enim"
+        },
+        {
+          "div_class": "col-lg-3 col-md-4 mt-4",
+          "box_class": "icon-box",
+          "i_class": "ri-gradienter-line",
+          "i_style": "color: #ffa76e",
+          "href": "",
+          "text": "Eiusmod Tempor"
+        },
+        {
+          "div_class": "col-lg-3 col-md-4 mt-4",
+          "box_class": "icon-box",
+          "i_class": "ri-file-list-3-line",
+          "i_style": "color: #11dbcf",
+          "href": "",
+          "text": "Midela Teren"
+        },
+        {
+          "div_class": "col-lg-3 col-md-4 mt-4",
+          "box_class": "icon-box",
+          "i_class": "ri-price-tag-2-line",
+          "i_style": "color: #4233ff",
+          "href": "",
+          "text": "Pira Neve"
+        },
+        {
+          "div_class": "col-lg-3 col-md-4 mt-4",
+          "box_class": "icon-box",
+          "i_class": "ri-anchor-line",
+          "i_style": "color: #b2904f",
+          "href": "",
+          "text": "Dirada Pack"
+        },
+        {
+          "div_class": "col-lg-3 col-md-4 mt-4",
+          "box_class": "icon-box",
+          "i_class": "ri-disc-line",
+          "i_style": "color: #b20969",
+          "href": "",
+          "text": "Moton Ideal"
+        },
+        {
+          "div_class": "col-lg-3 col-md-4 mt-4",
+          "box_class": "icon-box",
+          "i_class": "ri-base-station-line",
+          "i_style": "color: #ff5828",
+          "href": "",
+          "text": "Verdo Park"
+        },
+        {
+          "div_class": "col-lg-3 col-md-4 mt-4",
+          "box_class": "icon-box",
+          "i_class": "ri-fingerprint-line",
+          "i_style": "color: #29cc61",
+          "href": "",
+          "text": "Flavor Nivelanda"
+        }
+      ]
     }
   ],
 

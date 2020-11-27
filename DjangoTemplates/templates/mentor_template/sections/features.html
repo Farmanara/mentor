@@ -1,0 +1,16 @@
+<!-- ======= Features Section ======= -->
+<section id="features" class="features">
+  <div class="container" data-aos="fade-up">
+    <div class="row" data-aos="zoom-in" data-aos-delay="100">
+      {%for feature in section.features%}
+      <div class="{{feature.div_class}}">
+        <div class="{{feature.box_class}}">
+          <i class="{{feature.i_class}}" style="{{feature.i_style}}"></i>
+          <h3><a href="{{feature.href}}">{{feature.text}}</a></h3>
+        </div>
+      </div>
+      {%endfor%}
+    </div>
+  </div>
+</section>
+<!-- End Features Section -->
