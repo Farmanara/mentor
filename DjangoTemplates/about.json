@@ -69,7 +69,7 @@
     {
       "file": "mentor_template/sections_about/about.html",
       "content": {
-        "img_src": "assets/img/about.jpg",
+        "img_src": "mentor_template/assets/img/about.jpg",
         "img_class": "img-fluid",
         "img_alt": "",
         "heading": "Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.",
@@ -102,7 +102,7 @@
       "testimonials": [
         {
           "img": {
-            "src": "assets/img/testimonials/testimonials-1.jpg",
+            "src": "mentor_template/assets/img/testimonials/testimonials-1.jpg",
             "class": "testimonial-img",
             "alt": ""
           },
@@ -112,7 +112,7 @@
         },
         {
           "img": {
-            "src": "assets/img/testimonials/testimonials-2.jpg",
+            "src": "mentor_template/assets/img/testimonials/testimonials-2.jpg",
             "class": "testimonial-img",
             "alt": ""
           },
@@ -122,7 +122,7 @@
         },
         {
           "img": {
-            "src": "assets/img/testimonials/testimonials-3.jpg",
+            "src": "mentor_template/assets/img/testimonials/testimonials-3.jpg",
             "class": "testimonial-img",
             "alt": ""
           },
@@ -132,7 +132,7 @@
         },
         {
           "img": {
-            "src": "assets/img/testimonials/testimonials-4.jpg",
+            "src": "mentor_template/assets/img/testimonials/testimonials-4.jpg",
             "class": "testimonial-img",
             "alt": ""
           },
@@ -142,7 +142,7 @@
         },
         {
           "img": {
-            "src": "assets/img/testimonials/testimonials-5.jpg",
+            "src": "mentor_template/assets/img/testimonials/testimonials-5.jpg",
             "class": "testimonial-img",
             "alt": ""
           },
