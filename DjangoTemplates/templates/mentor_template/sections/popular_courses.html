@@ -9,7 +9,7 @@
 
     <div class="row" data-aos="zoom-in" data-aos-delay="100">
       {%for course in section.courses%}
-      <div class="course.main_class">
+      <div class="{{course.main_class}}">
         <div class="course-item">
           <img
             src="{% static course.img_src %}"
