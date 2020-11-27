@@ -268,6 +268,76 @@
           "text": "Flavor Nivelanda"
         }
       ]
+    },
+    {
+      "file": "mentor_template/sections/popular_courses.html",
+      "title": "Courses",
+      "tagline": "Popular Courses",
+      "courses": [
+        {
+          "main_class": "col-lg-4 col-md-6 d-flex align-items-stretch",
+          "img_src": "mentor_template/assets/img/course-1.jpg",
+          "img_class": "img-fluid",
+          "img_alt": "...",
+          "heading": "Web Development",
+          "price": "$169",
+          "href": "course-details.html",
+          "sub_heading": "Website Design",
+          "description": "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
+          "trainer": {
+            "img_src": "mentor_template/assets/img/trainers/trainer-1.jpg",
+            "img_class": "img-fluid",
+            "img_alt": "",
+            "name": "Antonio",
+            "users_i_class": "bx bx-user",
+            "users_number": "50",
+            "heart_i_class": "bx bx-heart",
+            "liked_number": "65"
+          }
+        },
+        {
+          "main_class": "col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0",
+          "course_img_src": "mentor_template/assets/img/course-2.jpg",
+          "course_img_class": "img-fluid",
+          "course_img_alt": "...",
+          "heading": "Marketing",
+          "price": "$250",
+          "href": "course-details.html",
+          "sub_heading": "Search Engine Optimization",
+          "description": "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
+          "trainer": {
+            "img_src": "mentor_template/assets/img/trainers/trainer-2.jpg",
+            "img_class": "img-fluid",
+            "img_alt": "",
+            "name": "Lana",
+            "user_i_class": "bx bx-user",
+            "users_number": "35",
+            "heart_i_class": "bx bx-heart",
+            "liked_numbers": "42"
+          }
+        },
+        {
+          "main_class": "ol-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0",
+          "img_src": "mentor_template/assets/img/course-3.jpg",
+          "img_class": "img-fluid",
+          "img_alt": "...",
+          "heading": "Content",
+          "price": "$180",
+          "href": "course-details.html",
+          "sub_heading": "Copywriting",
+          "description": "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
+          "trainer": {
+            "img_src": "mentor_template/assets/img/trainers/trainer-3.jpg",
+            "img_class": "img-fluid",
+            "img_alt": "",
+            "name": "Brandon",
+            "user_i_class": "bx bx-user",
+            "users_number": "20",
+            "heart_i_class": "bx bx-heart",
+            "liked_numbers": "85"
+          }
+        }
+      ]
     }
   ],
 
