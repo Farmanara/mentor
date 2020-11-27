@@ -10,7 +10,7 @@
     },
     {
       "name": "About",
-      "context": ["about.json"],
+      "context": ["base.json", "about.json"],
       "template": "mentor_template/about.html"
     }
   ]
