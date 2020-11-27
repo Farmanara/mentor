@@ -317,7 +317,7 @@
           }
         },
         {
-          "main_class": "ol-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0",
+          "main_class": "col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0",
           "img_src": "mentor_template/assets/img/course-3.jpg",
           "img_class": "img-fluid",
           "img_alt": "...",
