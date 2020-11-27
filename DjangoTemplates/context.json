@@ -313,7 +313,7 @@
             "user_i_class": "bx bx-user",
             "users_number": "35",
             "heart_i_class": "bx bx-heart",
-            "liked_numbers": "42"
+            "liked_number": "42"
           }
         },
         {
@@ -334,7 +334,7 @@
             "user_i_class": "bx bx-user",
             "users_number": "20",
             "heart_i_class": "bx bx-heart",
-            "liked_numbers": "85"
+            "liked_number": "85"
           }
         }
       ]
