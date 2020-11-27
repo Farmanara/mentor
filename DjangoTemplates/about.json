@@ -1,6 +1,6 @@
 {
   "meta": {
-    "header_title": "Mentor Bootstrap Template - Index",
+    "header_title": "Mentor Bootstrap Template - About",
     "header_icon": "mentor_template/assets/img/favicon.png",
     "description": "",
     "keywords": ""
@@ -9,7 +9,7 @@
     "title": "Mentor",
 
     "navbar": {
-      "home_active": "active",
+      "about_active": "active",
       "drop_down": {
         "class": "drop-down",
         "name": "Drop Down",
