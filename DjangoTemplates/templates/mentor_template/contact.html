@@ -1,0 +1,6 @@
+{%extends "mentor_template/base.html"%} {%load static%} {%block content%}
+<main id="main">
+  {%for section in sections%} {%include section.file%} {%endfor%}
+</main>
+<!-- End #main -->
+{%endblock%}

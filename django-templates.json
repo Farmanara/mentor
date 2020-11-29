@@ -12,6 +12,11 @@
       "name": "About",
       "context": ["base.json", "about.json"],
       "template": "mentor_template/about.html"
+    },
+    {
+      "name": "Contact",
+      "context": ["base.json", "contact.json"],
+      "template": "mentor_template/contact.html"
     }
   ]
 }
