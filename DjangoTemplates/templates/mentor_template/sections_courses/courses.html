@@ -1,42 +1,48 @@
 {%load static%}
-<div class="row" data-aos="zoom-in" data-aos-delay="100">
-    {%for course in section.courses%}
-    <div class="{{course.main_class}}">
-      <div class="course-item">
-        <img
-          src="{% static course.img_src %}"
-          class="{{course.img_class}}"
-          alt="{{course.img_alt}}"
-        />
-        <div class="course-content">
-          <div class="d-flex justify-content-between align-items-center mb-3">
-            <h4>{{course.heading}}</h4>
-            <p class="price">{{course.price}}</p>
-          </div>
-
-          <h3><a href="{{course.href}}">{{course.sub_heading}}</a></h3>
-          <p>{{course.description}}</p>
-          <div
-            class="trainer d-flex justify-content-between align-items-center"
-          >
-            <div class="trainer-profile d-flex align-items-center">
-              <img
-                src="{%static course.trainer.img_src %}"
-                class="{{course.trainer.img_class}}"
-                alt="{{course.trainer.img_alt}}"
-              />
-              <span>{{course.trainer.name}}</span>
+<!-- ======= Courses Section ======= -->
+<section id="courses" class="courses">
+  <div class="container" data-aos="fade-up">
+    <div class="row" data-aos="zoom-in" data-aos-delay="100">
+      {%for course in section.courses%}
+      <div class="{{course.main_class}}">
+        <div class="course-item">
+          <img
+            src="{% static course.img_src %}"
+            class="{{course.img_class}}"
+            alt="{{course.img_alt}}"
+          />
+          <div class="course-content">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+              <h4>{{course.heading}}</h4>
+              <p class="price">{{course.price}}</p>
             </div>
-            <div class="trainer-rank d-flex align-items-center">
-              <i class="{{course.trainer.users_i_class}}"></i
-              >&nbsp;{{course.trainer.users_number}} &nbsp;&nbsp;
-              <i class="{{course.trainer.heart_i_class}}"></i
-              >&nbsp;{{course.trainer.liked_number}}
+
+            <h3><a href="{{course.href}}">{{course.sub_heading}}</a></h3>
+            <p>{{course.description}}</p>
+            <div
+              class="trainer d-flex justify-content-between align-items-center"
+            >
+              <div class="trainer-profile d-flex align-items-center">
+                <img
+                  src="{%static course.trainer.img_src %}"
+                  class="{{course.trainer.img_class}}"
+                  alt="{{course.trainer.img_alt}}"
+                />
+                <span>{{course.trainer.name}}</span>
+              </div>
+              <div class="trainer-rank d-flex align-items-center">
+                <i class="{{course.trainer.users_i_class}}"></i
+                >&nbsp;{{course.trainer.users_number}} &nbsp;&nbsp;
+                <i class="{{course.trainer.heart_i_class}}"></i
+                >{{course.trainer.liked_number}}
+              </div>
             </div>
           </div>
         </div>
       </div>
+      <!-- End Course Item-->
     </div>
-    <!-- End Course Item-->
-    {%endfor%}
-      </section><!-- End Courses Section -->
+  </div>
+</section>
+<!-- End Courses Section -->
+{%endfor%}
