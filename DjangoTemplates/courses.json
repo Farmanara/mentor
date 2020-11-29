@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "header_title": "Courses - Mentor Bootstrap Template",
+    "header_icon": "mentor_template/assets/img/favicon.png",
+    "description": "",
+    "keywords": ""
+  },
+  "header": {
+    "title": "Mentor",
+
+    "navbar": {
+      "home_active": "active",
+      "drop_down": {
+        "class": "drop-down",
+        "name": "Drop Down",
+        "link": "#",
+        "sub_dropdown1": {
+          "name": "Drop Down 1",
+          "link": "#"
+        },
+        "deep_drop_down": {
+          "name": "Deep Drop Down",
+          "link": "#",
+          "list": [
+            {
+              "name": "Deep Drop Down 1",
+              "link": "#"
+            },
+            {
+              "name": "Deep Drop Down 2",
+              "link": "#"
+            },
+            {
+              "name": "Deep Drop Down 3",
+              "link": "#"
+            },
+            {
+              "name": "Deep Drop Down 4",
+              "link": "#"
+            },
+            {
+              "name": "Deep Drop Down 5",
+              "link": "#"
+            }
+          ]
+        },
+        "sub_dropdown2": {
+          "name": "Drop Down 2",
+          "link": "#"
+        },
+        "sub_dropdown3": {
+          "name": "Drop Down 3",
+          "link": "#"
+        },
+
+        "sub_dropdown4": {
+          "name": "Drop Down 4",
+          "link": "#"
+        }
+      }
+    }
+  },
+
+  "sections": [
+    {
+      "file": "mentor_template/sections_about/breadcrumb.html",
+      "title": "Courses",
+      "tagline": "Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium."
+    },
+    {
+      "file": "mentor_template/sections_courses/courses.html",
+      "courses": [
+        {
+          "main_class": "col-lg-4 col-md-6 d-flex align-items-stretch",
+          "img_src": "mentor_template/assets/img/course-1.jpg",
+          "img_class": "img-fluid",
+          "img_alt": "...",
+          "heading": "Web Development",
+          "price": "$169",
+          "href": "course-details.html",
+          "sub_heading": "Website Design",
+          "description": "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
+          "trainer": {
+            "img_src": "mentor_template/assets/img/trainers/trainer-1.jpg",
+            "img_class": "img-fluid",
+            "img_alt": "",
+            "name": "Antonio",
+            "users_i_class": "bx bx-user",
+            "users_number": "50",
+            "heart_i_class": "bx bx-heart",
+            "liked_number": "65"
+          }
+        },
+        {
+          "main_class": "col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0",
+          "img_src": "mentor_template/assets/img/course-2.jpg",
+          "img_class": "img-fluid",
+          "img_alt": "...",
+          "heading": "Marketing",
+          "price": "$250",
+          "href": "course-details.html",
+          "sub_heading": "Search Engine Optimization",
+          "description": "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
+          "trainer": {
+            "img_src": "mentor_template/assets/img/trainers/trainer-2.jpg",
+            "img_class": "img-fluid",
+            "img_alt": "",
+            "name": "Lana",
+            "user_i_class": "bx bx-user",
+            "users_number": "35",
+            "heart_i_class": "bx bx-heart",
+            "liked_number": "42"
+          }
+        },
+        {
+          "main_class": "col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0",
+          "img_src": "mentor_template/assets/img/course-3.jpg",
+          "img_class": "img-fluid",
+          "img_alt": "...",
+          "heading": "Content",
+          "price": "$180",
+          "href": "course-details.html",
+          "sub_heading": "Copywriting",
+          "description": "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
+          "trainer": {
+            "img_src": "mentor_template/assets/img/trainers/trainer-3.jpg",
+            "img_class": "img-fluid",
+            "img_alt": "",
+            "name": "Brandon",
+            "user_i_class": "bx bx-user",
+            "users_number": "20",
+            "heart_i_class": "bx bx-heart",
+            "liked_number": "85"
+          }
+        }
+      ]
+    }
+  ],
+
+  "footer": {
+    "contact_heading": "Mentor",
+    "address_lines": [
+      "A108 Adam Street",
+      "New York, NY 535022",
+      "United States"
+    ],
+    "contact_info": [
+      {
+        "type": "Phone:",
+        "info": "+1 5589 55488 55"
+      },
+      {
+        "type": "Email:",
+        "info": "info@example.com"
+      }
+    ],
+    "useful_links": {
+      "heading": "Useful Links",
+      "links": [
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Home"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "About us"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Services"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Terms of service"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Privacy policy"
+        }
+      ]
+    },
+    "services": {
+      "heading": "Our Services",
+      "links": [
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Web Design"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Web Development"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Product Management"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Marketing"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Graphic Design"
+        }
+      ]
+    },
+    "newsletter": {
+      "title": "Join Our Newsletter",
+      "text": "Tamen quem nulla quae legam multos aute sint culpa legam noster magna",
+      "subscribe_button_value": "Subscribe"
+    },
+
+    "social_media": [
+      {
+        "href": "#",
+        "media_class": "twitter",
+        "i_class": "bx bxl-twitter"
+      },
+      {
+        "href": "#",
+        "media_class": "facebook",
+        "i_class": "bx bxl-facebook"
+      },
+      {
+        "href": "#",
+        "media_class": "instagram",
+        "i_class": "bx bxl-instagram"
+      },
+      {
+        "href": "#",
+        "media_class": "google-plus",
+        "i_class": "bx bxl-skype"
+      },
+      {
+        "href": "#",
+        "media_class": "linkedin",
+        "i_class": "bx bxl-linkedin"
+      }
+    ]
+  }
+}

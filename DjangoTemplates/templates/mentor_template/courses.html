@@ -1,0 +1,7 @@
+{%extends "mentor_template/base.html"%} {%load static%} {%block content%}
+
+<main id="main" data-aos="fade-in">
+  {%for section in sections%} {%include section.file%} {%endfor%}
+</main>
+<!-- End #main -->
+{%endblock%}
