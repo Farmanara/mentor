@@ -17,6 +17,11 @@
       "name": "Contact",
       "context": ["base.json", "contact.json"],
       "template": "mentor_template/contact.html"
+    },
+    {
+      "name": "Courses",
+      "context": ["base.json", "courses.json"],
+      "template": "mentor_template/courses.html"
     }
   ]
 }
