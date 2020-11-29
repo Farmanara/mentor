@@ -9,7 +9,7 @@
     "title": "Mentor",
 
     "navbar": {
-      "home_active": "active",
+      "courses_active": "active",
       "drop_down": {
         "class": "drop-down",
         "name": "Drop Down",
