@@ -98,7 +98,7 @@
         ],
         "bottom_text": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate",
         "button": {
-          "href": "about.html",
+          "href": "/mentor/main/page/1/about",
           "class": "learn-more-btn",
           "text": "Learn More"
         }
