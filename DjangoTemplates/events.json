@@ -63,15 +63,15 @@
 
   "sections": [
     {
-      "file": "mentor_templates/sections_about/breadcrumb.html",
+      "file": "mentor_template/sections_about/breadcrumb.html",
       "title": "Events",
       "tagline": "Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium."
     },
     {
-      "file": "mentor_templates/sections_events/events.html",
+      "file": "mentor_template/sections_events/events.html",
       "cards": [
         {
-          "img_src": "mentor_templates/assets/img/events-1.jpg",
+          "img_src": "mentor_template/assets/img/events-1.jpg",
           "img_alt": "...",
           "href": "",
           "card_title": "Introduction to webdesign",
@@ -79,7 +79,7 @@
           "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
         },
         {
-          "img_src": "mentor_templates/assets/img/events-2.jpg",
+          "img_src": "mentor_template/assets/img/events-2.jpg",
           "img_alt": "...",
           "href": "",
           "card_title": "Marketing Strategies",
