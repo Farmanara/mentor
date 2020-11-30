@@ -23,7 +23,7 @@
           "img_alt": "...",
           "heading": "Web Development",
           "price": "$169",
-          "href": "course-details.html?contexts=course-details.json",
+          "href": "/mentor/main/page/7/course-details",
           "sub_heading": "Website Design",
           "description": "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
           "trainer": {
@@ -44,7 +44,7 @@
           "img_alt": "...",
           "heading": "Marketing",
           "price": "$250",
-          "href": "course-details.html?contexts=course-details.json",
+          "href": "/mentor/main/page/7/course-details",
           "sub_heading": "Search Engine Optimization",
           "description": "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
           "trainer": {
@@ -65,7 +65,7 @@
           "img_alt": "...",
           "heading": "Content",
           "price": "$180",
-          "href": "course-details.html?contexts=course-details.json",
+          "href": "/mentor/main/page/7/course-details",
           "sub_heading": "Copywriting",
           "description": "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
           "trainer": {
