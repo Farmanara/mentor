@@ -5,6 +5,9 @@
     "description": "",
     "keywords": ""
   },
+  "header":{
+    "navbar":{"about_active":"active"
+  },
 
   "sections": [
     {
