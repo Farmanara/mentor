@@ -76,7 +76,7 @@
           "title": "Free",
           "currency": "$",
           "price": "0",
-          "length": "/ month",
+          "length": " / month",
           "list": [
             {
               "item": "Aida dere"
@@ -109,7 +109,7 @@
           "title": "Business",
           "currency": "$",
           "price": "19",
-          "length": "/ month",
+          "length": " / month",
           "list": [
             {
               "item": "Aida dere"
@@ -141,7 +141,7 @@
           "title": "Developer",
           "currency": "$",
           "price": "29",
-          "length": "/ month",
+          "length": " / month",
           "list": [
             {
               "item": "Aida dere"
@@ -176,7 +176,7 @@
           "title": "Business",
           "currency": "$",
           "price": "19",
-          "length": "/ month",
+          "length": " / month",
           "list": [
             {
               "item": "Aida dere"
@@ -191,7 +191,7 @@
               "item": "Pharetra massa"
             },
             {
-]              "item": "Massa ultricies mi"
+              "item": "Massa ultricies mi"
             }
           ],
           "btn": {
