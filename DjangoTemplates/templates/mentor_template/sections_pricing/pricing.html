@@ -1,0 +1,36 @@
+<!-- ======= Pricing Section ======= -->
+<section id="pricing" class="pricing">
+  <div class="container" data-aos="fade-up">
+    <div class="row">
+      {%for card in section.cards%}
+      <div class="{{card.parent_class}}">
+        <div class="{{card.child_class}}">
+          {%if card.span%}
+          <span class="{{card.span.class}}">{{card.span.text}}</span>
+          {%endif%}
+          <h3>{{card.title}}</h3>
+          <h4>
+            <sup>{{card.currency}}</sup>{{card.price}}<span
+              >{{card.length}}</span
+            >
+          </h4>
+          <ul>
+            {%for li in section.list%} {%if li.class%}
+            <li class="{{li.class}}">{{li.item}}</li>
+            {%else%}
+            <li>{{li.item}}</li>
+            {%endif%} {%endfor%}
+          </ul>
+          <div class="{{card.btn_class}}">
+            <a href="{{card.btn.href}}" class="{{card.btn.href_class}}"
+              >{{card.btn.text}}</a
+            >
+          </div>
+        </div>
+      </div>
+
+      {%endfor%}
+    </div>
+  </div>
+</section>
+<!-- End Pricing Section -->
