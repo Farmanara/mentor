@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "header_title": "Course Details - Mentor Bootstrap Template",
+    "header_icon": "mentor_template/assets/img/favicon.png",
+    "description": "",
+    "keywords": ""
+  },
+  "header": {
+    "title": "Mentor",
+
+    "navbar": {
+      "course_active": "active",
+      "drop_down": {
+        "class": "drop-down",
+        "name": "Drop Down",
+        "link": "#",
+        "sub_dropdown1": {
+          "name": "Drop Down 1",
+          "link": "#"
+        },
+        "deep_drop_down": {
+          "name": "Deep Drop Down",
+          "link": "#",
+          "list": [
+            {
+              "name": "Deep Drop Down 1",
+              "link": "#"
+            },
+            {
+              "name": "Deep Drop Down 2",
+              "link": "#"
+            },
+            {
+              "name": "Deep Drop Down 3",
+              "link": "#"
+            },
+            {
+              "name": "Deep Drop Down 4",
+              "link": "#"
+            },
+            {
+              "name": "Deep Drop Down 5",
+              "link": "#"
+            }
+          ]
+        },
+        "sub_dropdown2": {
+          "name": "Drop Down 2",
+          "link": "#"
+        },
+        "sub_dropdown3": {
+          "name": "Drop Down 3",
+          "link": "#"
+        },
+
+        "sub_dropdown4": {
+          "name": "Drop Down 4",
+          "link": "#"
+        }
+      }
+    }
+  },
+
+  "sections": [
+    {
+      "file": "mentor_template/sections_about/breacrumb.html",
+      "title": "Course Details",
+      "tagline": "Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium."
+    },
+    {
+      "file": "mentor_template/sections_course-details/course-details.html",
+      "content": {
+        "img": {
+          "src": "mentor_template/assets/image/course-details.jpg",
+          "class": "img-fluid",
+          "alt": ""
+        },
+
+        "heading": "Et enim incidunt fuga tempora",
+        "description": "Qui et explicabo voluptatem et ab qui vero et voluptas. Sint voluptates temporibus quam autem. Atque nostrum voluptatum laudantium a doloremque enim et ut dicta. Nostrum ducimus est iure minima totam doloribus nisi ullam deserunt. Corporis aut officiis sit nihil est. Labore aut sapiente aperiam. Qui voluptas qui vero ipsum ea voluptatem. Omnis et est. Voluptatem officia voluptatem adipisci et iusto provident doloremque consequatur. Quia et porro est. Et qui corrupti laudantium ipsa. Eum quasi saepe aperiam qui delectus quaerat in. Vitae mollitia ipsa quam. Ipsa aut qui numquam eum iste est dolorum. Rem voluptas ut sit ut.",
+        "course_info": [
+          {
+            "heading": "Trainer",
+            "href": "#",
+            "text": "Walter White"
+          },
+          {
+            "heading": "Course Fee",
+            "text": "$165"
+          },
+          {
+            "heading": "Available Seats",
+            "text": "30"
+          },
+          {
+            "heading": "Schedule",
+            "text": "5.00 pm - 7.00 pm"
+          }
+        ]
+      }
+    },
+    {
+      "file": "mentor_template/sections_course-details/course-details-tabs.html",
+      "content": {
+        "nav_list": [
+          {
+            "active": "True",
+            "href": "#tab-1",
+            "text": "Modi sit est"
+          },
+          {
+            "href": "#tab-2",
+            "text": "Unde praesentium sed"
+          },
+          {
+            "href": "#tab-3",
+            "text": "Pariatur explicabo vel"
+          },
+          {
+            "href": "#tab-4",
+            "text": "Nostrum qui quasi"
+          },
+          {
+            "href": "#tab-5",
+            "text": "Iusto ut expedita aut"
+          }
+        ],
+        "tabs": [
+          {
+            "active": "True",
+            "id": "tab-1",
+            "heading": "Architecto ut aperiam autem id",
+            "italic_text": "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka",
+            "text": " Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+            "img": {
+              "src": "mentor_template/assets/image/course-details-tab-1.png",
+              "alt": "",
+              "class": "img-fluid"
+            }
+          },
+          {
+            "id": "tab-2",
+            "heading": "Et blanditiis nemo veritatis excepturi",
+            "italic_text": "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka",
+            "text": "Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et reiciendis sunt sunt est. Non aliquid repellendus itaque accusamus eius et velit ipsa voluptates. Optio nesciunt eaque beatae accusamus lerode pakto madirna desera vafle de nideran pal",
+            "img": {
+              "src": "mentor_template/assets/image/course-details-tab-2.png",
+              "alt": "",
+              "class": "img-fluid"
+            }
+          },
+          {
+            "id": "tab-3",
+            "heading": "Impedit facilis occaecati odio neque aperiam sit",
+            "italic_text": "Eos voluptatibus quo. Odio similique illum id quidem non enim fuga. Qui natus non sunt dicta dolor et. In asperiores velit quaerat perferendis aut",
+            "text": "Iure officiis odit rerum. Harum sequi eum illum corrupti culpa veritatis quisquam. Neque necessitatibus illo rerum eum ut. Commodi ipsam minima molestiae sed laboriosam a iste odio. Earum odit nesciunt fugiat sit ullam. Soluta et harum voluptatem optio quae",
+            "img": {
+              "src": "mentor_template/assets/image/course-details-tab-3.png",
+              "alt": "",
+              "class": "img-fluid"
+            }
+          },
+          {
+            "id": "tab-4",
+            "heading": "Fuga dolores inventore laboriosam ut est accusamus laboriosam dolore",
+            "italic_text": "Totam aperiam accusamus. Repellat consequuntur iure voluptas iure porro quis delectus",
+            "text": "Eaque consequuntur consequuntur libero expedita in voluptas. Nostrum ipsam necessitatibus aliquam fugiat debitis quis velit. Eum ex maxime error in consequatur corporis atque. Eligendi asperiores sed qui veritatis aperiam quia a laborum inventore",
+            "img": {
+              "src": "mentor_template/assets/image/course-details-tab-4.png",
+              "alt": "",
+              "class": "img-fluid"
+            }
+          },
+          {
+            "id": "tab-5",
+            "heading": "Est eveniet ipsam sindera pad rone matrelat sando reda",
+            "italic_text": "Omnis blanditiis saepe eos autem qui sunt debitis porro quia.",
+            "text": "Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis recusandae ut non quam ut quod eius qui. Ipsum quia odit vero atque qui quibusdam amet. Occaecati sed est sint aut vitae molestiae voluptate vel",
+            "img": {
+              "src": "mentor_template/assets/image/course-details-tab-5.png",
+              "alt": "",
+              "class": "img-fluid"
+            }
+          }
+        ]
+      }
+    }
+  ],
+
+  "footer": {
+    "contact_heading": "Mentor",
+    "address_lines": [
+      "A108 Adam Street",
+      "New York, NY 535022",
+      "United States"
+    ],
+    "contact_info": [
+      {
+        "type": "Phone:",
+        "info": "+1 5589 55488 55"
+      },
+      {
+        "type": "Email:",
+        "info": "info@example.com"
+      }
+    ],
+    "useful_links": {
+      "heading": "Useful Links",
+      "links": [
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Home"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "About us"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Services"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Terms of service"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Privacy policy"
+        }
+      ]
+    },
+    "services": {
+      "heading": "Our Services",
+      "links": [
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Web Design"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Web Development"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Product Management"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Marketing"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Graphic Design"
+        }
+      ]
+    },
+    "newsletter": {
+      "title": "Join Our Newsletter",
+      "text": "Tamen quem nulla quae legam multos aute sint culpa legam noster magna",
+      "subscribe_button_value": "Subscribe"
+    },
+
+    "social_media": [
+      {
+        "href": "#",
+        "media_class": "twitter",
+        "i_class": "bx bxl-twitter"
+      },
+      {
+        "href": "#",
+        "media_class": "facebook",
+        "i_class": "bx bxl-facebook"
+      },
+      {
+        "href": "#",
+        "media_class": "instagram",
+        "i_class": "bx bxl-instagram"
+      },
+      {
+        "href": "#",
+        "media_class": "google-plus",
+        "i_class": "bx bxl-skype"
+      },
+      {
+        "href": "#",
+        "media_class": "linkedin",
+        "i_class": "bx bxl-linkedin"
+      }
+    ]
+  }
+}

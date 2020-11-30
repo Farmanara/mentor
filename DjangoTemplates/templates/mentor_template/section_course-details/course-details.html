@@ -1,0 +1,31 @@
+<!-- ======= Cource Details Section ======= -->
+<section id="course-details" class="course-details">
+  <div class="container" data-aos="fade-up">
+    <div class="row">
+      <div class="col-lg-8">
+        <img
+          src="{{section.content.img.src}}"
+          class="{{section.content.img.class}}"
+          alt="{{section.content.img.alt}}"
+        />
+        <h3>{{section.content.heading}}</h3>
+        <p>{{section.content.description}}</p>
+      </div>
+      <div class="col-lg-4">
+        {%for item in section.content.course_info %}
+        <div
+          class="course-info d-flex justify-content-between align-items-center"
+        >
+          <h5>{{item.heading}}</h5>
+          <p>
+            {%if item.href%}<a href="{{item.href}}"
+              >{%endif%}{{item.text}}{%if item.href%}</a
+            >{%endif%}
+          </p>
+        </div>
+        {%endfor%}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Cource Details Section -->
