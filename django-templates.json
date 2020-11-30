@@ -22,6 +22,11 @@
       "name": "Courses",
       "context": ["base.json", "courses.json"],
       "template": "mentor_template/courses.html"
+    },
+    {
+      "name": "Pricing",
+      "context": ["base.json", "pricing.json"],
+      "template": "mentor_template/pricing.html"
     }
   ]
 }
