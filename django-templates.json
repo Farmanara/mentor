@@ -14,19 +14,29 @@
       "template": "mentor_template/about.html"
     },
     {
-      "name": "Contact",
-      "contexts": ["base.json", "contact.json"],
-      "template": "mentor_template/contact.html"
-    },
-    {
       "name": "Courses",
       "contexts": ["base.json", "courses.json"],
       "template": "mentor_template/courses.html"
     },
     {
+      "name": "Trainers",
+      "contexts": ["base.json", "trainers.json"],
+      "template": "mentor_template/trainers.html"
+    },
+    {
+      "name": "Events",
+      "contexts": ["base.json", "events.json"],
+      "template": "mentor_template/events.html"
+    },
+    {
       "name": "Pricing",
       "contexts": ["base.json", "pricing.json"],
       "template": "mentor_template/pricing.html"
+    },
+    {
+      "name": "Contact",
+      "contexts": ["base.json", "contact.json"],
+      "template": "mentor_template/contact.html"
     },
     {
       "name": "Course Details",
