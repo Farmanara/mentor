@@ -63,7 +63,7 @@
 
   "sections": [
     {
-      "file": "mentor_templates/sections/breadcrumb.html",
+      "file": "mentor_templates/sections_about/breadcrumb.html",
       "title": "Events",
       "tagline": "Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium."
     },
