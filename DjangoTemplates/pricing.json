@@ -89,7 +89,7 @@
             },
             {
               "class": "na",
-              "item": "Pharetra"
+              "item": "Pharetra massa"
             },
             {
               "class": "na",
@@ -97,7 +97,7 @@
             }
           ],
           "btn": {
-            "class": "btn_wrap",
+            "class": "btn-wrap",
             "href": "#",
             "href_class": "btn-buy",
             "text": "Buy Now"
@@ -129,7 +129,7 @@
             }
           ],
           "btn": {
-            "class": "btn_wrap",
+            "class": "btn-wrap",
             "href": "#",
             "href_class": "btn-buy",
             "text": "Buy Now"
@@ -160,7 +160,7 @@
             }
           ],
           "btn": {
-            "class": "btn_wrap",
+            "class": "btn-wrap",
             "href": "#",
             "href_class": "btn-buy",
             "text": "Buy Now"
@@ -195,7 +195,7 @@
             }
           ],
           "btn": {
-            "class": "btn_wrap",
+            "class": "btn-wrap",
             "href": "#",
             "href_class": "btn-buy",
             "text": "Buy Now"
