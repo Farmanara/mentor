@@ -5,32 +5,32 @@
   "pages": [
     {
       "name": "Home page",
-      "context": ["context.json"],
+      "contexts": ["context.json"],
       "template": "mentor_template/index.html"
     },
     {
       "name": "About",
-      "context": ["base.json", "about.json"],
+      "contexts": ["base.json", "about.json"],
       "template": "mentor_template/about.html"
     },
     {
       "name": "Contact",
-      "context": ["base.json", "contact.json"],
+      "contexts": ["base.json", "contact.json"],
       "template": "mentor_template/contact.html"
     },
     {
       "name": "Courses",
-      "context": ["base.json", "courses.json"],
+      "contexts": ["base.json", "courses.json"],
       "template": "mentor_template/courses.html"
     },
     {
       "name": "Pricing",
-      "context": ["base.json", "pricing.json"],
+      "contexts": ["base.json", "pricing.json"],
       "template": "mentor_template/pricing.html"
     },
     {
       "name": "Course Details",
-      "context": ["base.json", "course-details.json"],
+      "contexts": ["base.json", "course-details.json"],
       "template": "mentor_template/course-details.html"
     }
   ]
