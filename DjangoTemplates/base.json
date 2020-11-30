@@ -9,7 +9,6 @@
     "title": "Mentor",
 
     "navbar": {
-      "home_active": "active",
       "drop_down": {
         "class": "drop-down",
         "name": "Drop Down",
