@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "header_title": "Events - Mentor Bootstrap Template",
+    "header_icon": "mentor_template/assets/img/favicon.png",
+    "description": "",
+    "keywords": ""
+  },
+  "header": {
+    "title": "Mentor",
+
+    "navbar": {
+      "events_active": "active",
+      "drop_down": {
+        "class": "drop-down",
+        "name": "Drop Down",
+        "link": "#",
+        "sub_dropdown1": {
+          "name": "Drop Down 1",
+          "link": "#"
+        },
+        "deep_drop_down": {
+          "name": "Deep Drop Down",
+          "link": "#",
+          "list": [
+            {
+              "name": "Deep Drop Down 1",
+              "link": "#"
+            },
+            {
+              "name": "Deep Drop Down 2",
+              "link": "#"
+            },
+            {
+              "name": "Deep Drop Down 3",
+              "link": "#"
+            },
+            {
+              "name": "Deep Drop Down 4",
+              "link": "#"
+            },
+            {
+              "name": "Deep Drop Down 5",
+              "link": "#"
+            }
+          ]
+        },
+        "sub_dropdown2": {
+          "name": "Drop Down 2",
+          "link": "#"
+        },
+        "sub_dropdown3": {
+          "name": "Drop Down 3",
+          "link": "#"
+        },
+
+        "sub_dropdown4": {
+          "name": "Drop Down 4",
+          "link": "#"
+        }
+      }
+    }
+  },
+
+  "sections": [
+    {
+      "file": "mentor_templates/sections/breadcrumb.html",
+      "title": "Events",
+      "tagline": "Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium."
+    },
+    {
+      "file": "mentor_templates/sections_events/events.html",
+      "cards": [
+        {
+          "img_src": "mentor_templates/assets/img/events-1.jpg",
+          "img_alt": "...",
+          "href": "",
+          "card_title": "Introduction to webdesign",
+          "time": "Sunday, September 26th at 7:00 pm",
+          "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+        },
+        {
+          "img_src": "mentor_templates/assets/img/events-2.jpg",
+          "img_alt": "...",
+          "href": "",
+          "card_title": "Marketing Strategies",
+          "time": "Sunday, November 15th at 7:00 pm",
+          "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo"
+        }
+      ]
+    }
+  ],
+
+  "footer": {
+    "contact_heading": "Mentor",
+    "address_lines": [
+      "A108 Adam Street",
+      "New York, NY 535022",
+      "United States"
+    ],
+    "contact_info": [
+      {
+        "type": "Phone:",
+        "info": "+1 5589 55488 55"
+      },
+      {
+        "type": "Email:",
+        "info": "info@example.com"
+      }
+    ],
+    "useful_links": {
+      "heading": "Useful Links",
+      "links": [
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Home"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "About us"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Services"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Terms of service"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Privacy policy"
+        }
+      ]
+    },
+    "services": {
+      "heading": "Our Services",
+      "links": [
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Web Design"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Web Development"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Product Management"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Marketing"
+        },
+        {
+          "class": "bx bx-chevron-right",
+          "href": "#",
+          "title": "Graphic Design"
+        }
+      ]
+    },
+    "newsletter": {
+      "title": "Join Our Newsletter",
+      "text": "Tamen quem nulla quae legam multos aute sint culpa legam noster magna",
+      "subscribe_button_value": "Subscribe"
+    },
+
+    "social_media": [
+      {
+        "href": "#",
+        "media_class": "twitter",
+        "i_class": "bx bxl-twitter"
+      },
+      {
+        "href": "#",
+        "media_class": "facebook",
+        "i_class": "bx bxl-facebook"
+      },
+      {
+        "href": "#",
+        "media_class": "instagram",
+        "i_class": "bx bxl-instagram"
+      },
+      {
+        "href": "#",
+        "media_class": "google-plus",
+        "i_class": "bx bxl-skype"
+      },
+      {
+        "href": "#",
+        "media_class": "linkedin",
+        "i_class": "bx bxl-linkedin"
+      }
+    ]
+  }
+}

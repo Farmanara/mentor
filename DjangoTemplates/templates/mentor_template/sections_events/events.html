@@ -1,0 +1,25 @@
+{%load static%}
+<!-- ======= Events Section ======= -->
+<section id="events" class="events">
+  <div class="container" data-aos="fade-up">
+    <div class="row">
+      {%for card in section.cards%}
+      <div class="col-md-6 d-flex align-items-stretch">
+        <div class="card">
+          <div class="card-img">
+            <img src="{%static card.img_src%}" alt="{{card.img_alt}}" />
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">
+              <a href="{{card.href}}">{{card.card_title}}</a>
+            </h5>
+            <p class="font-italic text-center">{{card.time}}</p>
+            <p class="card-text">{{card.description}}</p>
+          </div>
+        </div>
+      </div>
+      {%endfor%}
+    </div>
+  </div>
+</section>
+<!-- End Events Section -->
