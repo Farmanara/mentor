@@ -2,10 +2,12 @@
 <!-- ======= Trainers Section ======= -->
 <section id="trainers" class="trainers">
   <div class="container" data-aos="fade-up">
+    {%if section.title%}
     <div class="section-title">
       <h2>{{section.title}}</h2>
       <p>{{section.tagline}}</p>
     </div>
+    {%endif%}
 
     <div class="row" data-aos="zoom-in" data-aos-delay="100">
       {%for trainer in section.trainers%}
