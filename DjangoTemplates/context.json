@@ -67,7 +67,7 @@
       "heading_line_2": "Leading Tomorrow",
       "tagline": "We are team of talanted designers making websites with Bootstrap",
       "button": {
-        "link": "courses.html",
+        "link": "/mentor/main/page/2/courses",
         "class": "btn-get-started",
         "text": "Get Started"
       }
