@@ -9,12 +9,12 @@
 
   "sections": [
     {
-      "file": "mentor_template/sections_about/breadcrumb.html",
+      "file": "mentor_template/sections/breadcrumb.html",
       "title": "Courses",
       "tagline": "Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium."
     },
     {
-      "file": "mentor_template/sections_courses/courses.html",
+      "file": "mentor_template/sections/courses.html",
       "courses": [
         {
           "main_class": "col-lg-4 col-md-6 d-flex align-items-stretch",

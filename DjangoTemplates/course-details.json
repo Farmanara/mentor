@@ -9,12 +9,12 @@
 
   "sections": [
     {
-      "file": "mentor_template/sections_about/breadcrumb.html",
+      "file": "mentor_template/sections/breadcrumb.html",
       "title": "Course Details",
       "tagline": "Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium."
     },
     {
-      "file": "mentor_template/sections_course-details/course-details.html",
+      "file": "mentor_template/sections/course-details.html",
       "content": {
         "img": {
           "src": "mentor_template/assets/img/course-details.jpg",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "file": "mentor_template/sections_course-details/course-details-tabs.html",
+      "file": "mentor_template/sections/course-details-tabs.html",
       "content": {
         "nav_list": [
           {

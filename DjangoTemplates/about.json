@@ -9,12 +9,12 @@
 
   "sections": [
     {
-      "file": "mentor_template/sections_about/breadcrumb.html",
+      "file": "mentor_template/breadcrumb.html",
       "title": "About Us",
       "tagline": "Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium."
     },
     {
-      "file": "mentor_template/sections_about/about.html",
+      "file": "mentor_template/sections/about_about.html",
       "content": {
         "img_src": "mentor_template/assets/img/about.jpg",
         "img_class": "img-fluid",
@@ -73,7 +73,7 @@
     },
 
     {
-      "file": "mentor_template/sections_about/testimonials.html",
+      "file": "mentor_template/sections/testimonials.html",
       "title": "Testimonials",
       "tagline": "What are they saying",
       "testimonials": [

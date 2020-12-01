@@ -9,12 +9,12 @@
 
   "sections": [
     {
-      "file": "mentor_template/sections_about/breadcrumb.html",
+      "file": "mentor_template/sections/breadcrumb.html",
       "title": "Pricing",
       "tagline": "Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium."
     },
     {
-      "file": "mentor_template/sections_pricing/pricing.html",
+      "file": "mentor_template/sections/pricing.html",
       "cards": [
         {
           "parent_class": "col-lg-3 col-md-6",
